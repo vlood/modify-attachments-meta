@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modify Attachments Meta v0.1b\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-04 06:15:47-0600\n"
+"Last-Translator: vloo <vlood.vassilev@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: modify-attachments-meta.php:0
+#@ mod-att-meta
+msgid "Modify Attachments Meta"
+msgstr "Редакция инфото на прикачени файлове"
+
+#. translators: plugin header field 'PluginURI'
+#: modify-attachments-meta.php:0
+#@ mod-att-meta
+msgid "http://shtrak.eu"
+msgstr "http://shtrak.eu"
+
+#. translators: plugin header field 'Description'
+#: modify-attachments-meta.php:0
+#@ mod-att-meta
+msgid "Allows modification of meta data of attachments, such as date fields (soon to add more, I guess)"
+msgstr "Позволява редакцията на информация в прикачените файлове, като датата на качване, примерно. Скоро трябва да бъдат добавени и други възможности."
+
+#. translators: plugin header field 'Author'
+#: modify-attachments-meta.php:0
+#@ mod-att-meta
+msgid "vloo"
+msgstr "vloo"
+
+#. translators: plugin header field 'AuthorURI'
+#: modify-attachments-meta.php:0
+#@ mod-att-meta
+msgid "http://profiles.wordpress.org/vloo"
+msgstr "http://profiles.wordpress.org/vloo"
+
+#. translators: plugin header field 'Version'
+#: modify-attachments-meta.php:0
+#@ mod-att-meta
+msgid "0.1b"
+msgstr "0.1b"
+
+#: modify-attachments-meta.php:35
+#@ mod-att-meta
+msgid "Date and time"
+msgstr "Дата и час"
+
+#: modify-attachments-meta.php:37
+#@ mod-att-meta
+msgid "Modify the original upload date"
+msgstr "Промени оригиналната дата и час на качване на файла"
+
