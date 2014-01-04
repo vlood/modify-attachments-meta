@@ -8,7 +8,7 @@
  * Plugin Name:       Modify Attachments Meta
  * Plugin URI:        http://shtrak.eu
  * Description:       Allows modification of meta data of attachments, such as date fields (soon to add more, I guess)
- * Version:           0.1b
+ * Version:           0.1
  * Author:            vloo
  * Author URI:        http://profiles.wordpress.org/vloo
  * Text Domain:       mod-att-meta
