@@ -40,8 +40,12 @@ function attachment_date_edit($form_fields, $post) {
 
 // save custom field to post_meta
 function attachment_date_save($post, $attachment) {
-	$post['post_date'] = $attachment['post_date'];
-    return $post;
+	if(strtotime($attachment['post_date'])){ //is a valid date?
+		$post['post_date'] = $attachment['post_date'];
+    	return $post;	
+	} else {
+		// Do nothing silently. That's what you get when you don't give us valid input!
+	}
 }
 
 add_filter( 'attachment_fields_to_edit', 'attachment_date_edit', 10, 2);
