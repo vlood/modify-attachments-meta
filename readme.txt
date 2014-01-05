@@ -1,6 +1,7 @@
 === Plugin Name ===
 Tags: attachments, modify date, change meta data, edit uploaded files
 Requires at least: 3.8
+Contributors: vloo
 Tested up to: 3.8
 Stable tag: /trunk/
 License: GPLv2 or later
@@ -47,9 +48,11 @@ Nope.
 
 == Screenshots ==
 
-/assets/screenshot-1.png
+1. How "Edit date and time" looks on the attachment edit page.
 
 == Changelog ==
 = 0.1 =
 
 * Editing an attachment date and time record is now possible;
+
+== Upgrade Notice ==
