@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Modify Attachments Meta v0.1b\n"
+"Project-Id-Version: Modify Attachments Meta v0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-04 06:15:47-0600\n"
+"PO-Revision-Date: 2014-12-24 20:45:00+0000\n"
 "Last-Translator: vloo <vlood.vassilev@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -26,12 +26,6 @@ msgstr ""
 msgid "Modify Attachments Meta"
 msgstr "Редакция инфото на прикачени файлове"
 
-#. translators: plugin header field 'PluginURI'
-#: modify-attachments-meta.php:0
-#@ mod-att-meta
-msgid "http://shtrak.eu"
-msgstr "http://shtrak.eu"
-
 #. translators: plugin header field 'Description'
 #: modify-attachments-meta.php:0
 #@ mod-att-meta
@@ -42,27 +36,43 @@ msgstr "Позволява редакцията на информация в п�
 #: modify-attachments-meta.php:0
 #@ mod-att-meta
 msgid "vloo"
-msgstr "vloo"
+msgstr ""
 
 #. translators: plugin header field 'AuthorURI'
 #: modify-attachments-meta.php:0
 #@ mod-att-meta
 msgid "http://profiles.wordpress.org/vloo"
-msgstr "http://profiles.wordpress.org/vloo"
+msgstr ""
+
+#: modify-attachments-meta.php:50
+#@ mod-att-meta
+msgid "Modify the original upload date"
+msgstr "Промени оригиналната дата и час на качване на файла"
+
+#. translators: plugin header field 'PluginURI'
+#: modify-attachments-meta.php:0
+#@ mod-att-meta
+msgid "https://github.com/vlood/modify-attachments-meta"
+msgstr ""
 
 #. translators: plugin header field 'Version'
 #: modify-attachments-meta.php:0
 #@ mod-att-meta
-msgid "0.1b"
-msgstr "0.1b"
+msgid "0.1"
+msgstr ""
 
-#: modify-attachments-meta.php:35
+#: modify-attachments-meta.php:48
 #@ mod-att-meta
-msgid "Date and time"
+msgid "Date & time"
 msgstr "Дата и час"
 
-#: modify-attachments-meta.php:37
+#: modify-attachments-meta.php:75
 #@ mod-att-meta
-msgid "Modify the original upload date"
-msgstr "Промени оригиналната дата и час на качване на файла"
+msgid "Menu Order"
+msgstr "Пореден номер"
+
+#: modify-attachments-meta.php:77
+#@ mod-att-meta
+msgid "Modify the original menu order"
+msgstr "Промени поредния номер"
 
