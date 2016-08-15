@@ -2,7 +2,7 @@
 Tags: attachments, modify date, change meta data, edit uploaded files
 Requires at least: 3.8
 Contributors: vloo
-Tested up to: 4.1
+Tested up to: 4.5.3
 Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -22,6 +22,8 @@ When embedding a file/image/video/something to a page, or you try to edit them i
 * If a user types invalid input, they should be warned. Currently nothing happens - attachment is updated without updating with the wrong data.
 
 As I'm lazy as hell, I'll need your help to think of new features to implement!
+
+Contributors are welcome on GitHub: https://github.com/vlood/modify-attachments-meta
 
 == Installation ==
 
@@ -51,7 +53,7 @@ Nope.
 
 == Changelog ==
 
-= 0.2. - 2014.12.25 (Merry Christmas!) =
+= 0.2 - 2014.12.25 (Merry Christmas!) =
 
 * Now menu order is editable (thanks to aspacecodyssey);
 * Bulgarian translation was updated;
